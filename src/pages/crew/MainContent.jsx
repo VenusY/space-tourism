@@ -39,7 +39,7 @@ export default function MainContent() {
 
       <div className='hero-image__container'>
         <img
-          src={require(`../../../public/assets/crew/image-${firstName}-${lastName}.png`)}
+          src={require(`./assets/image-${firstName}-${lastName}.png`)}
           alt={member}
           className={`hero-image hero-image--${firstName}`}
         />

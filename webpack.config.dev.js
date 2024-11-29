@@ -6,9 +6,7 @@ module.exports = merge(commonConfig, {
   mode: 'development',
   devtool: 'inline-source-map',
   devServer: {
-    static: {
-      directory: __dirname,
-    },
+    static: false,
     port: '5000',
     open: true,
     hot: true,

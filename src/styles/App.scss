@@ -30,20 +30,20 @@ body {
 
   &:has(main.home) {
     padding-bottom: 40px;
-    background-image: url('../../public/assets/home/background-home-mobile.jpg');
+    background-image: url('../pages/home/assets/background-home-mobile.jpg');
   }
 
   &:has(main.destination) {
-    background-image: url('../../public/assets/destination/background-destination-mobile.jpg');
+    background-image: url('../pages/destination/assets/background-destination-mobile.jpg');
   }
 
   &:has(main.crew) {
     position: relative;
-    background-image: url('../../public/assets/crew/background-crew-mobile.jpg');
+    background-image: url('../pages/crew/assets/background-crew-mobile.jpg');
   }
 
   &:has(main.technology) {
-    background-image: url('../../public/assets/technology/background-technology-mobile.jpg');
+    background-image: url('../pages/technology/assets/background-technology-mobile.jpg');
   }
 }
 
@@ -202,22 +202,22 @@ body {
 
     &:has(main.home) {
       padding-bottom: 90px;
-      background-image: url('../../public/assets/home/background-home-tablet.jpg');
+      background-image: url('../pages/home/assets/background-home-tablet.jpg');
     }
 
     &:has(main.destination) {
       padding-bottom: 50px;
-      background-image: url('../../public/assets/destination/background-destination-tablet.jpg');
+      background-image: url('../pages/destination/assets/background-destination-tablet.jpg');
     }
 
     &:has(main.crew) {
       padding-bottom: 0;
-      background-image: url('../../public/assets/crew/background-crew-tablet.jpg');
+      background-image: url('../pages/crew/assets/background-crew-tablet.jpg');
     }
 
     &:has(main.technology) {
       padding-bottom: 100px;
-      background-image: url('../../public/assets/technology/background-technology-tablet.jpg');
+      background-image: url('../pages/technology/assets/background-technology-tablet.jpg');
     }
   }
 
@@ -314,16 +314,16 @@ body {
 
     &:has(main.home) {
       padding-bottom: 130px;
-      background-image: url('../../public/assets/home/background-home-desktop.jpg');
+      background-image: url('../pages/home/assets/background-home-desktop.jpg');
     }
 
     &:has(main.destination) {
       padding-bottom: 110px;
-      background-image: url('../../public/assets/destination/background-destination-desktop.jpg');
+      background-image: url('../pages/destination/assets/background-destination-desktop.jpg');
     }
 
     &:has(main.crew) {
-      background-image: url('../../public/assets/crew/background-crew-desktop.jpg');
+      background-image: url('../pages/crew/assets/background-crew-desktop.jpg');
     }
   }
 

@@ -29,7 +29,7 @@ export default function MainContent() {
   return (
     <div className='destination__main-content'>
       <img
-        src={require(`../../../public/assets/destination/image-${destination.toLowerCase()}.png`)}
+        src={require(`./assets/image-${destination.toLowerCase()}.png`)}
         alt={`Image of ${
           destination === 'Moon' ? `the ${destination}` : destination
         }`}

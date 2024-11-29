@@ -52,8 +52,8 @@ export default function MainContent() {
       <InfoSection selectedTech={selectedTech} description={description} />
       <HeroImage
         selectedTech={selectedTech}
-        portraitImg={require(`../../../public/assets/technology/image-${techName}-portrait.jpg`)}
-        landscapeImg={require(`../../../public/assets/technology/image-${techName}-landscape.jpg`)}
+        portraitImg={require(`./assets/image-${techName}-portrait.jpg`)}
+        landscapeImg={require(`./assets/image-${techName}-landscape.jpg`)}
       />
     </div>
   );

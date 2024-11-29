@@ -24,7 +24,7 @@ export default function App() {
         <button className='logo__button' data-page='home' onClick={changePage}>
           <img
             className='logo'
-            src={require('../public/assets/shared/logo.svg')}
+            src={require('./assets/logo.svg')}
             alt='Space Tourism Website Logo'
           />
         </button>
