@@ -11,10 +11,10 @@ This site was built with React and Sass.
 ## Preview
 
 ### Desktop Preview
-![Desktop preview](assets/readme-images/desktop-preview.png)
+<img src="./assets/readme-images/desktop-preview.png" alt="Desktop preview" />
 
 ### Tablet Preview
-![Tablet preview](assets/readme-images/tablet-preview.png)
+<img height="800" src="./assets/readme-images/tablet-preview.png" alt="Tablet preview" />
 
 ### Mobile Preview
-![Mobile preview](assets/readme-images/mobile-preview.png)
+<img height="800" src="./assets/readme-images/mobile-preview.png" alt="Mobile preview" />
