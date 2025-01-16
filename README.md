@@ -18,3 +18,8 @@ This site was built with React and Sass.
 
 ### Mobile Preview
 <img height="600" src="./assets/readme-images/mobile-preview.png" alt="Mobile preview" />
+
+## Author
+
+- LinkedIn - [Venus Yip](https://www.linkedin.com/in/venus-yip-869aa4217/)
+- Frontend Mentor - [@VenusY](https://www.frontendmentor.io/profile/VenusY)
