@@ -22,10 +22,10 @@ This site was built with React and Sass.
 <img src="./assets/readme-images/desktop-preview.png" alt="Desktop preview" />
 
 ### Tablet Preview
-<img height="600" src="./assets/readme-images/tablet-preview.png" alt="Tablet preview" />
+<img style="aspect-ratio: 768 / 1024;height: 100%;max-height:600;" src="./assets/readme-images/tablet-preview.png" alt="Tablet preview" />
 
 ### Mobile Preview
-<img height="600" src="./assets/readme-images/mobile-preview.png" alt="Mobile preview" />
+<img style="aspect-ratio: 375 / 667;height: 100%;max-height:600;" src="./assets/readme-images/mobile-preview.png" alt="Mobile preview" />
 
 ## Author
 
