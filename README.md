@@ -8,6 +8,14 @@ significant figures in space exploration, and relevant technologies.
 
 This site was built with React and Sass.
 
+## Table of Contents
+
+- [Preview](#preview)
+  - [Desktop Preview](#desktop-preview)
+  - [Tablet Preview](#tablet-preview)
+  - [Mobile Preview](#mobile-preview)
+- [Author](#author)
+
 ## Preview
 
 ### Desktop Preview
