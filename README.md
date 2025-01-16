@@ -7,3 +7,14 @@ user interface. Users can find facts and statistics about celestial bodies,
 significant figures in space exploration, and relevant technologies.
 
 This site was built with React and Sass.
+
+## Preview
+
+### Desktop Preview
+![Desktop preview](./assets/readme-images/desktop-preview.png)
+
+### Tablet Preview
+![Tablet preview](./assets/readme-images/tablet-preview.png)
+
+### Mobile Preview
+![Mobile preview](./assets/readme-images/mobile-preview.png)
